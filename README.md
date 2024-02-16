@@ -1,6 +1,6 @@
 ### Olá, eu sou a Priscila 👋
 
-"Nova no mundo da programação, ansioso para aprender e colaborar. Comprometido em desenvolver minhas habilidades e contribuir para projetos emocionantes."
+"Nova no mundo da programação, ansiosa para aprender e colaborar. Comprometido em desenvolver minhas habilidades e contribuir para projetos emocionantes."
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
